@@ -11,11 +11,11 @@ function Navbar() {
 
           <div className="lg:flex items-center md:flex hidden">
             <ul className="flex gap-9">
-              <li className="hover:border-b-2">Home</li>
-              <li className="hover:border-b-2">About</li>
-              <li className="hover:border-b-2">Services</li>
-              <li className="hover:border-b-2">Contact</li>
-              <li className="hover:border-b-2">Projects</li>
+              <li className="hover:border-b">Home</li>
+              <li className="hover:border-b">About</li>
+              <li className="hover:border-b">Services</li>
+              <li className="hover:border-b">Contact</li>
+              <li className="hover:border-b">Projects</li>
             </ul>
           </div>
         </div>
